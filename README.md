@@ -1,2 +1,1 @@
-# marketplace
-a fullstack marketplace using MERN
+@copyright by becodemy 2023
